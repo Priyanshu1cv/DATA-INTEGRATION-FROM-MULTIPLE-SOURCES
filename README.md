@@ -1,5 +1,16 @@
 # 📊 Bharat Vyapar Pulse – Sales Dashboard (Power BI)
 
+## 👨‍💻 Internship Details
+
+**Project Title**: DATA-INTEGRATION-FROM-MULTIPLE-SOURCES  (Bharat Vyapar Pulse – Sales Dashboard)
+**Company**: Codtech IT Solutions  
+**Name**: Priyanshu Maheshwari 
+**Intern ID**: CT04DF11 
+**Domain**: Power BI  
+**Duration**: 4 Weeks  
+**Mentor**: Neela Santosh
+
+
 This interactive Power BI project titled **“Bharat Vyapar Pulse – Sales Dashboard”** was developed during my **4-week internship at CodTech IT Solutions** under the mentorship of **Neela Santosh**. My domain was **Data Analytics with Power BI**, and I contributed as an intern (ID: **COD08111**) by designing a business-ready dashboard that integrates multiple data sources, applies advanced modeling, and delivers actionable sales insights across India.
 
 ---
