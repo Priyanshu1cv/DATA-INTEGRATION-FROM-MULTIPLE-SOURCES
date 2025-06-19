@@ -105,7 +105,7 @@ The repository includes:
 
 ## 🖼️ Dashboard Preview
 
-![Image](https://github.com/user-attachments/assets/615f632b-0a5d-4140-84d0-7647497f56e1)
+![Image](https://github.com/user-attachments/assets/e6facceb-1637-4264-af63-8c2c5d1caaea)
 
 ---
 
