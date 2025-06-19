@@ -129,7 +129,7 @@ The repository includes:
 
 Feel free to connect or reach out for collaborations, questions, or feedback:
 
-- 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/priyanshu-maheshwari03/))  
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/priyanshu-maheshwari03/))  
 - 📧 Email: priyanshu.analyticsprofs@yahoo.com  
 
 > 📝 *This project was created during my internship at CodTech IT Solutions and highlights my ability to integrate diverse datasets, build data models, and deliver impactful dashboards using Power BI.*
